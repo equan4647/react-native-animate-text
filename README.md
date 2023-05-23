@@ -8,15 +8,8 @@ Easy and customizable text animatations
 npm install react-native-animate-text
 ```
 
-## Usage
+## :warning: UNDER MAINTAINANCE MODE :hammer_and_wrench:
 
-```js
-import { multiply } from 'react-native-animate-text';
-
-// ...
-
-const result = await multiply(3, 7);
-```
 
 ## Contributing
 
